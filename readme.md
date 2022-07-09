@@ -34,6 +34,6 @@ $ source .venv/bin/activate
 (.env) $ mypy src
 ```
 
-### Developer experiances
+### Developer experiences
 
 When you using Visual Studio Code, you can add mypy extensions and they check automatically that your code is valid typing.
